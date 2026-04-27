@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Welcome to my GitHub!
 
-<!--
-**milenaaguiar22/milenaaguiar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Milena**, 18 years old, currently studying **Computer Science** at FIAP (1st semester).  
+I'm passionate about technology and constantly exploring how software can solve real-world problems.  
+At the moment, I'm building my foundations in programming and developing my logical thinking skills, always looking to grow and learn something new every day.
 
-Here are some ideas to get you started:
+## 🚀 Skills
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Learning
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div>
+<a href="https://github.com/milenaaguiar22">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaaguiar22&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=milenaaguiar22&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</a>
+</div>
+
+---
+
+![Snake animation](https://github.com/milenaaguiar22/milenaaguiar22/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+✨ Thanks for visiting my profile!
